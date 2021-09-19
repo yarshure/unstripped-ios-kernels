@@ -22,11 +22,8 @@
 	* [mach.release.t8010.unstripped](./iOS-v13.0-arm64e/mach.release.t8010.unstripped.7z)
 * iOS 14A188 T8030 Development
 
-* Hope these are helpfull to your research. :)
 
-*  use  img4tool  to extract from img4 file 
-# Contact
-* Weibo : [Proteas](http://weibo.com/proteaswang)
-* Twitter : [ProteasWang](https://twitter.com/ProteasWang)
+* use  img4tool  to extract from img4 file 
+* orig repo  https://github.com/Proteas/unstripped-ios-kernels
 
 
